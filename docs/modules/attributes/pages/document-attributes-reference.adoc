@@ -1024,6 +1024,15 @@ _url_
 |{y}
 |{n}
 |Location of image files.
+
+|favicon
+|*_empty_* +
+_file path_
+|{n}
+|{y}
+|Location of the favicon file.
+When set to empty, uses `./favicon.ico` relative to the HTML document.
+This should not be set if the head docinfo file already contains a favicon link, as then the generated HTML will contain two favicon links.
 |===
 
 == Source highlighting and formatting attributes
