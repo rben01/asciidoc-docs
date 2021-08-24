@@ -688,7 +688,7 @@ A leading + or - makes the value relative.
 See xref:sections:part-numbers-and-labels.adoc#partnums[Number book parts].
 _Book doctype only_.
 
-|sectanchors
+|sect-anchors
 |_empty_
 |{n}
 |{n}
